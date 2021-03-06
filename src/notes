@@ -1,0 +1,16 @@
+Jenkins:
+
+What are server why we need them :
+
+Benefits:
+1- stay power on all the time
+2-strong internet connection all the time
+3-a lot of resources
+
+===============================
+
+1- developers will develops the code
+2- runs the unit test if everything goes well ask
+the devops person to build that code and deploy the code on the server
+
+3- developer develope the code
